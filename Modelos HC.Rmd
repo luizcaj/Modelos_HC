@@ -8,7 +8,9 @@ output:
     latex_engine: xelatex
   word_document: default
 ---
-# Será apresentado 7 modelos de HC para a série dos retornos da Vale. Primeiramente iremos analisar a série do retorno e buscar o modelo ARMA que melhor se ajusta. E posteriormente, iremos buscar os modelos de HC que melhor se ajuste a série. Os modelos HC são Garch ( inovações gaussianas, t e skew t), IGARCH, GARCHM, EGARCH e TGARCH.
+# Será apresentado 7 modelos de HC para a série dos retornos da Vale. Primeiramente iremos analisar a série do retorno 
+# e buscar o modelo ARMA que melhor se ajusta. E posteriormente, iremos buscar os modelos de HC que melhor se ajuste a série.
+# Os modelos HC são Garch ( inovações gaussianas, t e skew t), IGARCH, GARCHM, EGARCH e TGARCH.
 
 ```{r echo=F, include =F,warning=F}
 .packages = c("tidyquant", "tidyverse", "xtable", "stargazer", "highcharter", "quantmod",
