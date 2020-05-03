@@ -7,5 +7,7 @@ A conclusão do trabalho foi que o modelo que melhor se ajustou, e que foi poss�
 
 Fontes: 
 Tsay, Ruey. An introduction to Analysis of Financial Data with R.
+
 Tsay, Ruey. Analysis of Financial Time Series.
+
 Nicolau, João. Modelação De Séries Temporais Financeiras.
